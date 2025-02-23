@@ -228,5 +228,5 @@ def get_response(prompt):
 df['answer'] = df['prompt'].apply(get_response)
 
 accuracy = sum(df['answer'] == df['referenceResponse']) / len(df)
-df.to_excel("data/llama.xlsx", index=False)
+df.to_csv("data/llama.csv", index=False)
 print(accuracy)
