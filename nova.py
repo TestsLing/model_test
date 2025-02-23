@@ -4,8 +4,8 @@ import copy
 import pandas as pd
 from termcolor import colored
 # create clients of bedrock
-bedrock = boto3.client(service_name='bedrock', region_name = 'us-east-1')
-bedrock_runtime = boto3.client(service_name='bedrock-runtime', region_name = 'us-east-1') 
+bedrock = boto3.client(service_name='bedrock', region_name = 'us-west-2')
+bedrock_runtime = boto3.client(service_name='bedrock-runtime', region_name = 'us-west-2') 
 pd.set_option('display.max_rows', None)
 results = []
 
@@ -55,7 +55,7 @@ class ChatModelNova(BaseChatModel):
     br_runtime : Any = None
     ak: str = None
     sk: str = None
-    region:str = "us-east-1"
+    region:str = "us-west-2"
 
     def _generate(
         self,
@@ -209,7 +209,7 @@ class ChatModelNova(BaseChatModel):
             "model_name": self.model_name,
         }
 
-llm = ChatModelNova(region_name="us-east-1", model_name="amazon.nova-pro-v1:0")
+llm = ChatModelNova(region_name="us-west-2", model_name="amazon.nova-pro-v1:0")
 
 
 import pandas as pd
