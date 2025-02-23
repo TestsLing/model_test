@@ -1,0 +1,100 @@
+{"referenceResponse": "B", "category": "Social Science", "prompt": "甲公司是国内一家上市公司。甲公司对其各子公司实行全面预算管理，并通常使用增量预算方式进行战略控制，子公司预算需要经甲公司预算管理委员会批准后执行。2015年10月，甲公司投资了一个新的项目乙(子公司)。2015年11月，甲公司启动2016年度预算编制工作，此时甲公司应要求乙公司编制____。\nA. 增量预算\nB. 零基预算\nC. 固定预算\nD. 弹性预算"}
+{"referenceResponse": "C", "category": "Social Science", "prompt": "债务人转让全部合同义务的，下列说法不正确的是____。\nA. 须债权人同意方可进行\nB. 新债务人可主张原债务人对债权人的抗辩\nC. 债务人转移债务的，原债务人对债权人享有债权的，新债务人可以向债权人主张抵销\nD. 非专属于原债务人自身的从债务，一并转让给新债务人"}
+{"referenceResponse": "C", "category": "Social Science", "prompt": "某公司2012年以150万元的价格进口了1台仪器；2014年6月因出现故障运往日本修理(出境时已向海关报明)，2014年10月，按海关规定的期限复运进境。此时，该仪器的国际市场价格为200万元。若经海关审定的修理费和料件费为40万元，运费为1.5万元，保险费用为2.8万元，进口关税税率为6%。该仪器复运进境时，应缴纳的进口关税为____万元。\nA. 9\nB. 3\nC. 2.4\nD. 12"}
+{"referenceResponse": "C", "category": "Social Science", "prompt": "公开发行公司债券，证监会同意注册的决定自作出之日起一定期限内有效，发行人应当该期限内发行公司债券。该期限是____。\nA. 6个月\nB. 1年\nC. 2年\nD. 3年"}
+{"referenceResponse": "D", "category": "Social Science", "prompt": "某集团公司在一家银行开设了许多不同的银行账户，那么，该集团公司可以要求银行在考虑其利息及透支限额时将其子公司的账户余额集中起来。下列不属于现金余额集中的好处是____。\nA. 盈余与赤字相抵\nB. 加强控制\nC. 增加投资机会\nD. 匹配"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "求极限：$\\lim_{x\\rightarrow0}\\frac{\\tan\\left(\\tan x\\right)-\\sin\\left(\\sin x\\right)}{\\tan x-\\sin x}=$____\nA. -1\nB. 0\nC. 2\nD. $\\frac{1}{2}$"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "求极限：$\\lim_{n\\rightarrow\\infty}\\left(1-\\frac{1}{1+2}\\right)\\left(1-\\frac{1}{1+2+3}\\right)\\cdots\\left(1-\\frac{1}{1+2+\\cdots+n}\\right)=$____\nA. $\\frac{2}{3}$\nB. $\\frac{1}{2}$\nC. $\\frac{5}{6}$\nD. $\\frac{1}{3}$"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "求$xy=\\ln y$在$P=\\left(\\frac{1}{\\mathrm{e}},\\mathrm{e}\\right)$点的曲率半径____\nA. $\\mathrm{e}^2$\nB. $2\\mathrm{e}^3$\nC. $3\\mathrm{e}^3$\nD. $\\mathrm{e}^3$"}
+{"referenceResponse": "A", "category": "STEM", "prompt": "求不定积分：$I=\\int{x\\ln\\left(1+x^2\\right)\\mathrm{arc}\\tan x}\\mathrm{d}x$____\nA. $\\frac{\\left( x^2+1 \\right) \\ln \\left( 1+x^2 \\right) \\mathrm{arc}\\tan x+3x-\\left( x^2+3 \\right) \\mathrm{arc}\\tan x-x\\ln \\left( 1+x^2 \\right)}{2}+C$\nB. $\\frac{\\left( x^2+2 \\right) \\ln \\left( 2+x^2 \\right) \\mathrm{arc}\\tan x+3x-\\left( x^2+3 \\right) \\mathrm{arc}\\tan x-x\\ln \\left( 1+x^2 \\right)}{2}+C$\nC. $\\frac{\\left( x^2+1 \\right) \\ln \\left( 2+x^2 \\right) \\mathrm{arc}\\tan x+3x-\\left( x^2+4 \\right) \\mathrm{arc}\\tan x-x\\ln \\left( 1+x^2 \\right)}{2}+C$\nD. $\\frac{\\left( x^2+1 \\right) \\ln \\left( 2+x^2 \\right) \\mathrm{arc}\\tan x+4x-\\left( x^2+4 \\right) \\mathrm{arc}\\tan x-x\\ln \\left( 1+x^2 \\right)}{2}+C$"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "求定积分：$\\int_0^1{\\left(1-x\\right)\\sqrt{2x-x^2}}\\mathrm{d}x=$____\nA. $\\frac{1}{2}$\nB. $\\frac{1}{3}$\nC. $\\frac{1}{4}$\nD. $\\frac{1}{5}$"}
+{"referenceResponse": "A", "category": "Humanity", "prompt": "王利发是老舍戏剧作品____中的主人公。\nA. 《茶馆》\nB. 《龙须沟》\nC. 《方珍珠》\nD. 《女店员》"}
+{"referenceResponse": "B", "category": "Humanity", "prompt": "《等待戈多》的作者是____。\nA. 加缪\nB. 贝克特\nC. 阿尔比\nD. 尤奈斯库"}
+{"referenceResponse": "D", "category": "Humanity", "prompt": "____创作了舞蹈《马赛曲》等作品，被现代舞蹈家们奉为精神领袖，誉为“现代舞之母”。\nA. 露丝·圣丹尼丝\nB. 安娜·巴普洛娃\nC. 玛莎·格雷姆\nD. 依莎多拉·邓肯"}
+{"referenceResponse": "A", "category": "Humanity", "prompt": "____创立了“叙事体戏剧”理论\nA. 布莱希特\nB. 萨特\nC. 格洛托夫斯基\nD. 贝克特"}
+{"referenceResponse": "C", "category": "Humanity", "prompt": "“伊莎多拉·邓肯”通过研究____创造了现代舞的表演风格。\nA. 奥托艺术\nB. 巴洛克艺术\nC. 古希腊艺术\nD. 拜占廷艺术"}
+{"referenceResponse": "A", "category": "Other", "prompt": "下列选项中，符合原癌基因概念的是____\nA. 是正常基因\nB. 是细胞癌基因\nC. 是肿瘤抑制基因\nD. 凋亡调节基因"}
+{"referenceResponse": "D", "category": "Other", "prompt": "栓塞时常伴有DIC发生，主要见于____\nA. 脂肪栓塞\nB. 空气栓塞\nC. 血栓栓塞\nD. 羊水栓塞"}
+{"referenceResponse": "C", "category": "Other", "prompt": "急性细菌性痢疾早期的结肠病变为____\nA. 假膜性炎\nB. 浆液性炎\nC. 卡他性炎\nD. 表面化脓性炎"}
+{"referenceResponse": "D", "category": "Other", "prompt": "下列各项，属于肿瘤的是____\nA. 错构瘤\nB. 动脉瘤\nC. 室壁瘤\nD. 骨软骨瘤"}
+{"referenceResponse": "A", "category": "Other", "prompt": "血吸虫虫卵引起的病变主要发生在____\nA. 大肠壁和肝脏\nB. 肠系膜静脉\nC. 门静脉\nD. 肺和肠"}
+{"referenceResponse": "B", "category": "Social Science", "prompt": "有一项年金，前3年无流入，后5年每年年初流入500万元，假设年利率为10%，(P/A，10%，5)=3.7908，(P/S，10%，3)=0.7513，(P/S，10%，2)=0.8264，其现值为____万元。\nA. 1994\nB. 1566\nC. 1813\nD. 1523"}
+{"referenceResponse": "C", "category": "Social Science", "prompt": "企业缴纳的耕地占用税，应在____科目核算。\nA. 应交税费\nB. 管理费用\nC. 在建工程\nD. 其他应付款"}
+{"referenceResponse": "B", "category": "Social Science", "prompt": "注册会计师在确定重要性时通常选定一个基准。下列因素中，注册会计师在选择基准时不需要考虑的是____。\nA. 被审计单位的性质\nB. 以前年度审计调整的金额\nC. 基准的相对波动性\nD. 是否存在财务报表使用者特别关注的项目"}
+{"referenceResponse": "C", "category": "Social Science", "prompt": "某投资方案，当贴现率为12%时，其净现值为22万元，当贴现率为14%时，其净现值为-11万元。该方案的内部收益率____。\nA. 大于14%\nB. 小于12%\nC. 介于12%与14%之间\nD. 无法确定"}
+{"referenceResponse": "B", "category": "Social Science", "prompt": "企业期末编制资产负债表时，下列各项应包括在“存货”项目的是____。\nA. 已作销售但购货方尚未运走的商品\nB. 委托代销商品\nC. 合同约定购入的商品\nD. 为在建工程购入的工程物资"}
+{"referenceResponse": "A", "category": "Humanity", "prompt": "“闯关东”中的“关东”指____。\nA. 东北\nB. 西北\nC. 华北\nD. 塞外"}
+{"referenceResponse": "B", "category": "Humanity", "prompt": "八股文是____。\nA. 八种文体\nB. 一种程式化的文章样式\nC. 八种修辞方式\nD. 由八个部分构成的文章"}
+{"referenceResponse": "D", "category": "Humanity", "prompt": "清末被誉为“诗界革命”一面旗帜的是____。\nA. 王国维\nB. 梁启超\nC. 谭嗣同\nD. 黄遵宪"}
+{"referenceResponse": "B", "category": "Humanity", "prompt": "“活”和“活儿”两个词____。\nA. 意思一样，没有区别\nB. 词性有区别，“活”是形容词，“活儿”是名词\nC. 感情色彩有强弱，“活儿”的感情色彩强\nD. 音节个数有区别，“活”是一个音节，“活儿”是两个音节"}
+{"referenceResponse": "D", "category": "Humanity", "prompt": "元朝政府曾经实行残酷的民族政策，把全国人民分为____四个等级。\nA. 色目人、蒙古人、汉人、南人\nB. 蒙古人、汉人、南人、色目人\nC. 蒙古人、南人、色目人、汉人\nD. 蒙古人、色目人、汉人、南人"}
+{"referenceResponse": "D", "category": "Humanity", "prompt": "透过车轮卷起的黄土，却见山野人秋，庄稼割过，静谧中含着一些寂静，只有阳光在切割过的根茬上烁烁闪亮。____。 填入横线上最恰当的是____。\nA. 这是一段颠簸的行程，一路上景色苍凉雄浑，寂静中裸露着贫瘠\nB. 也许是久旱的缘故，这边的溪流也变成了涓涓细流，在盘踞的石缝间流动\nC. 同绿色的南方相比，这里是荒凉的，乃至荒蛮\nD. 偶见人迹，大都是荒村野店。时而会有一座小小的孤庙一闪而过"}
+{"referenceResponse": "C", "category": "Humanity", "prompt": "据说，在东南沿海一带，渔民在捕到螃蟹后，将螃蟹放进一个上小肚大的竹篓里面，第一只螃蟹放进去时，渔夫就用重物将口封住，当第二只、第三只放进去后，渔夫就不再盖重物了，因为，第一只即将爬出篓口的螃蟹，会被第二只、第三只螃蟹拉到篓底。如此下去，即使篓口没有盖盖子，但也没有一只蟹能够爬出去。 这个故事意在告诉我们____。\nA. 人多不一定好办事\nB. 恶性竞争必然导致两败俱伤\nC. 内讧必然内耗，团结就是力量\nD. 与人方便，自己方便"}
+{"referenceResponse": "A", "category": "Humanity", "prompt": "谨慎：成就____\nA. 温和：好感\nB. 勤奋：努力\nC. 轻松：普通\nD. 好学：智慧"}
+{"referenceResponse": "D", "category": "Humanity", "prompt": "①我的奶奶是这样，我的父亲也是这样——那张画像，已经成为许多老百姓生活必需品的一部分，没有它，似乎客厅都是空的 ②如果因为认知能力的提升而将偶像抽离出记忆，那么，在那个时代里成长、生活的许多人，脑子里将空空如也，甚至不记得自己曾经活过这一回 ③卷的过程，是在收叠他个人的历史 ④有时挂旧了、破了，也会认认真真卷起来放好，我曾看别人卷过这画像，那种澄澈的眼神令人难忘 ⑤有些伟大者永远不会被人遗忘，因为那个伟大者，在那个时代，其实是一种生活，精神生活 ⑥从这个意义上说，尽管也许并不懂他，但人们心甘情愿尊他的名为圣 将以上6个句子重新排列，语序正确的是____。\nA. ②⑥⑤①④③\nB. ②⑥④③①⑤\nC. ①④③②⑥⑤\nD. ⑤②⑥①④③"}
+{"referenceResponse": "B", "category": "Humanity", "prompt": "相机：拍摄____\nA. 空调：降温\nB. B超：诊断\nC. 电脑：操作\nD. 地图：交通"}
+{"referenceResponse": "A", "category": "Other", "prompt": "下列哪项不是急性心肌梗死患者溶栓治疗的禁忌证____\nA. 发病6小时，心电图ST段抬高＞0．2mY\nB. 有慢性严重高血压病史\nC. 可疑为主动脉夹层\nD. 近期(2～4周)有活动性内脏出血"}
+{"referenceResponse": "C", "category": "Other", "prompt": "结核病的细胞免疫反应中起主要作用的细胞为____\nA. B淋巴细胞\nB. 巨噬细胞\nC. T淋巴细胞\nD. 嗜酸性粒细胞"}
+{"referenceResponse": "C", "category": "Other", "prompt": "Ⅱ型呼吸衰竭的实验室指标是____\nA. $PaO_2$ 50mmHg，$PaCO_2$ 60mmHg\nB. $PaO_2$ ＞60mmHg，$PaCO_2$ ＜50mmHg\nC. $PaO_2$ ＜60mmHg，$PaCO_2$ ＞50mmHg\nD. $PaO_2$ ＜55mmHg，$PaCO_2$ ＞50mmHg"}
+{"referenceResponse": "B", "category": "Other", "prompt": "男性，51岁。因慢性咳嗽、进行性气急5～6年，肺功能检测下列哪项不是诊断阻塞性肺气肿所需要的____\nA. 最大通气量＜80％预计\nB. 动脉血气分析\nC. 残气量／肺总量＞40％\nD. 呼气峰值流速降低"}
+{"referenceResponse": "D", "category": "Other", "prompt": "女性，22岁，面色苍白、排酱油样尿2周，下列哪项不是血管内溶血检查指标____\nA. 尿隐血试验\nB. 含铁血黄素尿\nC. 血清结合珠蛋白\nD. 海因小体"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "下列分子中，不存在离域π键的是____\nA. $O_3$\nB. $SO_3$\nC. $HNO_3$\nD. $HNO_2$"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "下列物质加入电池负极溶液中，使$Zn^{2+}$/$Zn$-$H^+$/$H_2$组成的原电池电动势增大的是____\nA. $ZnSO_4$固体\nB. Zn粒\nC. $Na_2S$溶液\nD. $Na_2SO_4$固体"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "下列各组物质中，制冷效果最好的是____\nA. 冰\nB. 冰+食盐\nC. 冰+$CaCl_2·6H_2O$\nD. 冰+$CaCl_2$"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "下列物种中，单电子数最多的是____\nA. $Mo(CO)_6$\nB. $[Cr(H_2O)_6]^{2+}$\nC. $[Cr(NH_3)_6]^{2+}$\nD. $[Co(NH_3)_6]^{3+}$"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "已知$K^\\theta_{\\alpha_1}(H_2CO_3)=4.3\\times10^{-7}$，$K^\\theta_{\\alpha_2}(H_2CO_3)=5.6\\times10^{-11}$，$0.10mol·L^{-1}$ $NaHCO_3$溶液的pH为____\nA. 2.3\nB. 6.3\nC. 7.1\nD. 8.3"}
+{"referenceResponse": "B", "category": "Social Science", "prompt": "考虑以下小型开放经济的数据：Y=1000，C=700，G=150，I=250-1000r*。如果世界利率为5%，那么小型开放经济的净出口为____。\nA. 50\nB. -50\nC. 150\nD. -150"}
+{"referenceResponse": "A", "category": "Social Science", "prompt": "已知一垄断企业成本函数为TC=5Q2+20Q+10，产品的需求函数为Q=140-P。利润最大化的产量为____。\nA. 10\nB. 5\nC. 3\nD. 15"}
+{"referenceResponse": "A", "category": "Social Science", "prompt": "如果消费与实际利率负相关，则______。\nA. IS曲线更平坦\nB. IS曲线更陡峭\nC. LM曲线更平坦\nD. LM曲线更陡峭"}
+{"referenceResponse": "B", "category": "Social Science", "prompt": "如果所有产品的生产都增加了10%，且所有价格都下降了10%，会发生以下哪一种情况？____\nA. 真实GDP增加10%，名义GDP减少10%\nB. 真实GDP增加10%，名义GDP不变\nC. 真实GDP不变，名义GDP增加10%\nD. 真实GDP不变，名义GDP减少10%"}
+{"referenceResponse": "D", "category": "Social Science", "prompt": "如果边际技术替代率MRTSLK小于劳动与资本的价格之比，为使成本最小，该厂商应该____。\nA. 同时增加资本和劳动\nB. 同时减少资本和劳动\nC. 减少资本，增加劳动\nD. 增加资本，减少劳动"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "有一劲度系数为k的轻弹簧，竖直放置，下端悬一质量为m的小球，开始时使弹簧为原长而小球恰好与地接触，今将弹簧上端缓慢地提起，直到小球刚能脱离地面为止，在此过程中外力作功为____\nA. m^2g^2/(4k)\nB. m^2g^2/(3k)\nC. m^2g^2/(2k)\nD. 2m^2g^2/k"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "某质点作直线运动的运动学方程为 x=3t-5t^3 +6(SI)，则该质点作____\nA. 匀加速直线运动，加速度沿x轴正方向\nB. 匀加速直线运动，加速度沿x轴负方向\nC. 变加速直线运动，加速度沿x轴正方向\nD. 变加速直线运动，加速度沿x轴负方向"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "光子能量为0.5MeV的X射线，入射到某种物质上而发生康普顿散射．若反冲电子的能量为0.1MeV，则散射光波长的改变量Δλ与入射光波长λ_0之比值为____\nA. 0.2\nB. 0.25\nC. 0.3\nD. 0.35"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "在带有电荷+Q的金属球产生的电场中，为测量某点场强E，在该点引入一电荷为+Q/3的点电荷，测得其受力为F．则该点场强 的大小____\nA. E=3F/Q\nB. E>3F/Q\nC. E<3F/Q\nD. 无法判断"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "“理想气体和单一热源接触作等温膨胀时，吸收的热量全部用来对外作功。”对此说法，有如下几种评论，哪种是正确的？____\nA. 不违反热力学第一定律，但违反热力学第二定律\nB. 不违反热力学第二定律，但违反热力学第一定律\nC. 不违反热力学第一定律，也不违反热力学第二定律\nD. 违反热力学第一定律，也违反热力学第二定律"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "在有n(n>1000)个元素的升序数组A中查找关键字x。查找算法的伪代码如下所示。\nk=0;\nwhile(k<n且A[k]<x)k=k+3；\nif(k<n且A[k]==x)查找成功；\nelse if(k-1<n且A[k-1]==x)查找成功；\nelse if(k-2<n且A[k-2]==x)查找成功；\nelse 查找失败；\n本算法与折半查找算法相比，有可能具有更少比较次数的情形是____\nA. 当 x 不在数组中\nB. 当 x 接近数组开头处\nC. 当 x 接近数组结尾处\nD. 当 x 位于数组中间位置"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "先序序列为a，b，c的不同二叉树的个数是____\nA. 3\nB. 5\nC. 4\nD. 6"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "若森林F有15条边、25个结点，则F包含树的个数是____\nA. 8\nB. 9\nC. 10\nD. 11"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "#include<iostream.h>\n#define SQR(x) x*x\nvoid main()\n{\nint a=10,k=2,m=1;\na/=SQR(k+m);cout<<a;\n}\n执行上面的C++程序后，a的值是____。\nA. 10\nB. 2\nC. 9\nD. 0"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "在C++中，编写一个内联函数func,使用类型int的参数，求其平方并返回，返回值为int类型，下列定义____是正确的\nA. int func(int x) {return (x*x);}\nB. inline int func(int x) {return (x*x);}\nC. int inline func(int x) {return (x*x);}\nD. int func(int x) {return (x*x);}"}
+{"referenceResponse": "A", "category": "STEM", "prompt": "和MOS型RAM比较，双极型RAM的特点是____。\nA. 速度快、集成度低、位功耗高\nB. 速度快、集成度高、位功耗高\nC. 速度快、集成度低、位功耗低\nD. 速度慢、集成度低、位功耗高"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "一个C语言程序在一台32位机器上运行，程序中定义了3个变量x、y、z，其中x和z是int型，y为short型。当x=127，y=-9时，执行赋值语句z=x+y后，x、y、z的值分别是____。\nA. x=0000007FH，y=FFF9H，z=00000076H\nB. x=0000007FH，y=FFF9H，z=FFFF0076H\nC. x=0000007FH，y=FFF7H，z=FFFF0076H\nD. x=0000007FH，y=FFF7H，z=00000076H"}
+{"referenceResponse": "A", "category": "STEM", "prompt": "一台有完整的层次储存器的MIPS计算机，LW指令访存的最少次数为____\nA. 0\nB. 1\nC. 2\nD. 3"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "一个四体并行低位交叉存储器，每个模块的容量是64K×32位，存取周期为200ns，总线周期为50ns，在下述说法中____是正确的。\nA. 在200ns内，存储器能向CPU提供256位二进制信息\nB. 在200ns内，存储器能向CPU提供128位二进制信息\nC. 在50ns内，每个模块能向CPU提供32位二进制信息\nD. 以上都不对"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "设寄存器R的内容(R)=1500H，内存单元1500H的内容为2500H，内存单元2500H的内容为3500H，PC的值为4500H，采用相对寻址方式，有效地址为2500H的操作数是____。\nA. 1500H\nB. 2500H\nC. 3500H\nD. 4500H"}
+{"referenceResponse": "A", "category": "STEM", "prompt": "下列设备属于资源子网的是____。\nA. 计算机软件\nB. 网桥\nC. 交换机\nD. 路由器"}
+{"referenceResponse": "A", "category": "STEM", "prompt": "滑动窗口的作用是____。\nA. 流量控制\nB. 拥塞控制\nC. 路由控制\nD. 差错控制"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "在OSI参考模型中，直接为会话层提供服务的是____。\nA. 应用层\nB. 表示层\nC. 传输层\nD. 网络层"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "协议是指在____之间进行通信的规则或约定。\nA. 同一结点的上下层\nB. 不同结点\nC. 相邻实体\nD. 不同结点对等实体"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "主机甲与主机乙之间使用后退N帧协议(GBN)传输数据，甲的发送窗口尺寸为1000，数据帧长为1000字节，信道带宽为100Mbps，乙每收到一个数据帧立即利用一个短帧(忽略其传输延迟)进行确认，若甲、乙之间的单向传播延迟是50ms，则甲可以达到的最大平均数据传输速率约为____。\nA. 10Mbps\nB. 20Mbps\nC. 80Mbps\nD. 100Mbps"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "设简单无向图G有15条边，有3个4度结点，其余结点的度数均为3，则G中的结点个数是____\nA. 6\nB. 7\nC. 8\nD. 9"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "一棵树有2个3度结点，其余结点都是叶子，则叶子数是____\nA. 7\nB. 6\nC. 5\nD. 4"}
+{"referenceResponse": "A", "category": "STEM", "prompt": "设简单无向图G有16条边，有3个4度结点，有4个3度结点，其余结点的度数均大于3，则G中的结点个数至多为____\nA. 9\nB. 10\nC. 11\nD. 12"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "5个结点的非同构的无向树的数目是____\nA. 5\nB. 4\nC. 3\nD. 2"}
+{"referenceResponse": "A", "category": "STEM", "prompt": "设S={0，1}，*为普通乘法，则〈S，*〉是____\nA. 独异点，但不是群\nB. 半群，但不是独异点\nC. 群\nD. 环，但不是群"}
+{"referenceResponse": "C", "category": "Humanity", "prompt": "根据我国心理学家冯忠良教授的学习分类，培养学生品德要通过____。\nA. 知识的学习\nB. 技能的学习\nC. 行为规范的学习\nD. 态度的学习"}
+{"referenceResponse": "A", "category": "Humanity", "prompt": "开设跨学科课程或建立跨学科专业体现了高等教育课程发展的____。\nA. 综合化趋势\nB. 多样化趋势\nC. 人文化趋势\nD. 科学化趋势"}
+{"referenceResponse": "B", "category": "Humanity", "prompt": "心智技能的特点有____。\nA. 物质性、外显性、简缩性\nB. 观念性、内潜性、简缩性\nC. 物质性、外显性、展开性\nD. 观念性、内潜性、展开性"}
+{"referenceResponse": "B", "category": "Humanity", "prompt": "下列关于大学生的情绪与理智关系的说法中正确的是____。\nA. 能冷静控制自己情绪\nB. 感情用事，难以用理智控制情绪\nC. 遇事能坚持自己正确认识\nD. 已发展到不为小事而发怒和怄气"}
+{"referenceResponse": "B", "category": "Humanity", "prompt": "在学完一篇逻辑结构严密的课文以后，勾画出课文的论点论据的逻辑关系图以帮助理解和记忆。这种学习方法属于____。\nA. 精细加工策略\nB. 组织策略\nC. 复述策略\nD. 做笔记策略"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "通过110(66)kV及以上电压等级接入电网的光伏发电站应配备故障录波设备，该设备应具有足够的记录通道并能够记录____的情况，并配备至电网调度机构的数据传输通道。\nA. 故障前5s到故障后60s\nB. 故障前10s到故障后60s\nC. 故障前5s到故障后120s\nD. 故障前10s到故障后120s"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "各配电柜上设备装设高度横向应整齐一致，避免在配电柜后装设继电器。各配电柜上信号继电器宜集中布置，安装水平高度应一致，其安装中心线离地面不宜低于____。\nA. 700mm\nB. 600mm\nC. 500mm\nD. 400mm"}
+{"referenceResponse": "A", "category": "STEM", "prompt": "在低压配电系统中，SELV特低电压回路的导体接地应采用下列选项中的____。\nA. 不接地\nB. 接地\nC. 经低阻抗接地\nD. 经高阻抗接地"}
+{"referenceResponse": "A", "category": "STEM", "prompt": "校验电气设备的动稳定性时，应采用安装处三相短路电流冲击值，当短路点附近所接电动机额定电流之和超过短路电流____时，应计入电动机反馈电流的影响。\nA. 1%\nB. 3%\nC. 5%\nD. 7%"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "电力电子变流装置按变流种类可分为____。\nA. 电动机、电源装置和控制装置3部分\nB. 汞弧整流器装置、普通晶闸管装置和新型自关断器件装置\nC. 母线供电装置、机组变流装置及电力电子变流装置3大类\nD. 整流装置、交流调压装置、变频装置3部分"}
+{"referenceResponse": "D", "category": "Other", "prompt": "根据《环境影响评价技术导则地表水环境》(HJ2.3—2018)，建设项目的地表水环境影响评价根据其主要影响划分为____。\nA. 水污染影响型\nB. 水文要素影响型\nC. 两者兼有的复合影响型\nD. 以上三种都有"}
+{"referenceResponse": "D", "category": "Other", "prompt": "根据《声环境质量标准》(GB3096—2008)，以商业金融为主的区域执行的环境噪声昼夜标准值分别是____。\nA. 50dB(A)、35dB(A)\nB. 50dB(A)、40dB(A)\nC. 50dB(A)、45dB(A)\nD. 60dB(A)、50dB(A)"}
+{"referenceResponse": "A", "category": "Other", "prompt": "根据《中华人民共和国环境噪声污染防治法》，穿越城市居民区、文教区的铁路，因铁路机车运行造成环境噪声污染的，____应当组织相关部门，制定减轻环境噪声的规划。\nA. 当地人民政府\nB. 铁路部门\nC. 环保部门\nD. 交通部门"}
+{"referenceResponse": "D", "category": "Other", "prompt": "在对地下水污染源调查过程中，对已有污染源调查资料的地区，一般可通过____解决。\nA. 现场调研\nB. 数学分析\nC. 群众参与\nD. 搜集现有资料"}
+{"referenceResponse": "A", "category": "Other", "prompt": "下列属于《中华人民共和国海洋环境保护法》规定的禁止向海域排放的是____。\nA. 油类、酸液、碱液、剧毒废液\nB. 低水平放射性废水\nC. 含病原体的医疗污水、生活污水和工业废水\nD. 含有不易降解的有机物和重金属的废水"}
+{"referenceResponse": "D", "category": "Other", "prompt": "干式和预作用的气压试验压力为____MPa。\nA. 0.1\nB. 0.2\nC. 0.25\nD. 0.28"}
+{"referenceResponse": "B", "category": "Other", "prompt": "根据《汽车库、修车库、停车场设计防火规范》(GB 50067—1997)，停车数量大于50辆小于等于150辆或总建筑面积大于2000m^2小于等于5000m^2的汽车库为____。\nA. Ⅰ类汽车库\nB. Ⅲ类汽车库\nC. Ⅱ类汽车库\nD. Ⅳ类汽车库"}
+{"referenceResponse": "B", "category": "Other", "prompt": "开放式细水雾灭火系统的设计响应时间不应大于____s；采用全淹没应用方式的瓶组式系统，当同一防护区内采用多组瓶组时，各瓶组必须能同时启动，且动作响应时差不应大于____s。\nA. 20；2\nB. 30；2\nC. 20；3\nD. 30；3"}
+{"referenceResponse": "D", "category": "Other", "prompt": "火力发电厂的煤气柜区四周均设置围墙，当总容积大于200000m^3时，柜体外壁与围墙的间距不宜小于____m。\nA. 15\nB. 16\nC. 17\nD. 18"}
+{"referenceResponse": "C", "category": "Other", "prompt": "下列____可以作为A级装修材料使用。\nA. 安装在木龙骨上燃烧性能达到B1级的纸面石膏板\nB. 单位质量小于300g/m^2的纸质、布质壁纸，当直接粘贴在A级基材上时\nC. 施涂于A级基材上的无机装饰涂料\nD. 施涂于A级基材上，湿涂覆比小于1.5kg/m^2的有机装饰涂料"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "某池塘生态系统的一条食物链为：浮游植物→浮游动物→鱼→水鸟。假如水鸟只依靠吃鱼来增加体重，那么每增加体重1千克，至少该生态系统内的浮游植物的量为____\nA. 50千克\nB. 125千克\nC. 625千克\nD. 1000千克"}
+{"referenceResponse": "B", "category": "STEM", "prompt": "E47是人工合成的，由47个核苷酸组成的单链DNA分子，它可以催化两个DNA片段之间的连接。下列有关E47的分析，错误的是____\nA. A与T的比例不一定相等\nB. 具有双螺旋结构\nC. 具有酶的功能\nD. 碱基序列决定其特异性"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "在减数分裂的第一次分裂过程中，不出现的变化是____\nA. 形成四分体\nB. 非同源染色体的自由组合\nC. 同源染色体分离\nD. 着丝点一分为二"}
+{"referenceResponse": "C", "category": "STEM", "prompt": "如果DNA分子上某一片段是基因，则该片段____\r\n\t①携带遗传信息\t②上面有密码子\t③能转录产生mRNA\r\n\t④能进入核糖体\t⑤能运载氨基酸\t⑥能控制蛋白质的合成\nA. ①③⑤\nB. ②④⑥\nC. ①③⑥\nD. ②④⑤"}
+{"referenceResponse": "D", "category": "STEM", "prompt": "气孔关闭会导致光合作用效率下降，其表现在____\nA. 水光解产生［H］的量不足\nB. 光反应中产生的ATP数量减少\nC. 暗反应过程中还原剂的数量不足\nD. 暗反应过程中产生的三碳化合物数量减少"}
