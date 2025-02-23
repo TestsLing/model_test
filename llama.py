@@ -225,9 +225,8 @@ def get_response(prompt):
     print(answer)
     return answer.content.strip()[0]
 
-df = df.iloc[:10, :]
 df['answer'] = df['prompt'].apply(get_response)
 
 accuracy = sum(df['answer'] == df['referenceResponse']) / len(df)
-df.to_csv("data/llama.csv", index=False)
+df.to_excel("data/llama.xlsx", index=False)
 print(accuracy)
