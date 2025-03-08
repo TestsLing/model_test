@@ -223,7 +223,7 @@ def get_response(prompt):
     ]
     answer = llm.invoke(message)
     print(answer)
-    time.sleep(5)
+    time.sleep(10)
     return answer.content[0]
 
 df['answer'] = df['prompt'].apply(get_response)
