@@ -209,7 +209,7 @@ class ChatModelNova(BaseChatModel):
             "model_name": self.model_name,
         }
 
-llm = ChatModelNova(region_name="us-east-1", model_name="amazon.nova-pro-v1:0")
+llm = ChatModelNova(region_name="us-east-1", model_name="us.amazon.nova-pro-v1:0")
 
 
 import pandas as pd
