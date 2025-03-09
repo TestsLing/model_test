@@ -219,7 +219,7 @@ df = pd.read_json("data/data.json", lines=True)
 
 def get_response(prompt):
     message = [
-        {"role": "system", "content": "直接返回正确答案选项，不要解释。"},
+        {"role": "system", "content": "直接返回正确答案选项，不要步骤和解释。"},
         {"role": "user", "content": prompt}
     ]
     answer = llm.invoke(message)
