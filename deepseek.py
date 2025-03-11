@@ -228,5 +228,5 @@ def get_response(prompt):
 
 df['answer'] = df['prompt'].apply(get_response)
 accuracy = sum(df['answer'] == df['referenceResponse']) / len(df)
-df.to_csv("data/mistral.csv", index=False)
+df.to_csv("data/deepseek.csv", index=False)
 print(accuracy)
