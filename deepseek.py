@@ -24,20 +24,22 @@ def get_response(prompt):
         response = client.converse(
             modelId=model_id,
             messages=messages,
-            inferenceConfig={"maxTokens": 2000, "temperature": 0.6, "topP": 0.9},
+            inferenceConfig={"maxTokens": 2000, "temperature": 0.1, "topP": 0.9},
         )
         
+        # print(response)
         # 提取响应文本
         response_text = response["output"]["message"]["content"][0]["text"]
-        print(f"响应: {response_text}")
+        response_text = response_text.strip()
+        print(f"{response_text}")
         
         # 添加延迟以避免速率限制
-        time.sleep(2)
+        time.sleep(10)
         
-        return response_text
+        return response_text[0]
     
     except (ClientError, Exception) as e:
-        print(f"错误: 无法调用 '{model_id}'。原因: {e}")
+        # print(f"错误: 无法调用 '{model_id}'。原因: {e}")
         return None
 
 def evaluate_model():
@@ -47,6 +49,7 @@ def evaluate_model():
     try:
         # 加载数据集
         df = pd.read_json("data/data.json", lines=True)
+        # df = df.head(1)
         
         # 对数据集中的每个提示应用模型
         df['answer'] = df['prompt'].apply(get_response)
