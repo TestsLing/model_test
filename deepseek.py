@@ -27,8 +27,6 @@ def get_response(prompt):
             inferenceConfig={"maxTokens": 2000, "temperature": 0.1, "topP": 0.9},
         )
         
-        # print(response)
-        # 提取响应文本
         response_text = response["output"]["message"]["content"][0]["text"]
         response_text = response_text.strip()
         print(f"{response_text}")
@@ -39,7 +37,6 @@ def get_response(prompt):
         return response_text[0]
     
     except (ClientError, Exception) as e:
-        # print(f"错误: 无法调用 '{model_id}'。原因: {e}")
         return None
 
 def evaluate_model():
