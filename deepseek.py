@@ -4,7 +4,7 @@ import boto3
 from botocore.exceptions import ClientError
 
 # 创建 Bedrock Runtime 客户端
-client = boto3.client("bedrock-runtime", region_name="us-west-2")
+client = boto3.client("bedrock-runtime", region_name="us-east-1")
 model_id = "us.deepseek.r1-v1:0"
 
 def get_response(prompt):
